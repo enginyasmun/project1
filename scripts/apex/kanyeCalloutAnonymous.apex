@@ -1,0 +1,1 @@
+KanyeCallout.fetchQuote();

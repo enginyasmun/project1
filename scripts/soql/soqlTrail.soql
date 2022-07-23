@@ -1,0 +1,1 @@
+SELECT name, id FROM Account WHERE Phone!=NULL AND Active__c=NULL

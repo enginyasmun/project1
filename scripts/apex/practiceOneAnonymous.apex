@@ -1,0 +1,13 @@
+// List<String> lt = ListSetMap.practiceOne();
+// System.debug(lt);
+// Integer ltSize = lt.size();
+// System.debug(ltSize);
+// Boolean ltCheck = lt.isEmpty();
+// System.debug(ltCheck);
+// string lt7 = lt.get(6);
+// System.debug(lt7);
+// Set<String> st1 = new Set<String>();
+// st1.addAll(lt);
+// System.debug(st1);
+List<Integer> lt2 = new List<Integer>{54, 45, 35, 89, 64, 98, 54, 45, 35, 89, 64, 98};
+ListSetMap.practiceTwo(lt2);

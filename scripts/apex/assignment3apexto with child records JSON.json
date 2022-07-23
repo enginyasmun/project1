@@ -1,0 +1,108 @@
+[
+    {
+        "attributes": {
+            "type": "Account",
+            "url": "/services/data/v54.0/sobjects/Account/0018c00002Ewf8EAAR"
+        },
+        "Id": "0018c00002Ewf8EAAR",
+        "Name": "United Oil & Gas Corp.--SI--SI--SI",
+        "AnnualRevenue": 5600000000,
+        "Type": "Customer - Direct",
+        "Opportunities": {
+            "totalSize": 9,
+            "done": true,
+            "records": [
+                {
+                    "attributes": {
+                        "type": "Opportunity",
+                        "url": "/services/data/v54.0/sobjects/Opportunity/0068c00000pWRTEAA4"
+                    },
+                    "AccountId": "0018c00002Ewf8EAAR",
+                    "Id": "0068c00000pWRTEAA4",
+                    "StageName": "Negotiation/Review",
+                    "Amount": 125000.00
+                },
+                {
+                    "attributes": {
+                        "type": "Opportunity",
+                        "url": "/services/data/v54.0/sobjects/Opportunity/0068c00000pWRTIAA4"
+                    },
+                    "AccountId": "0018c00002Ewf8EAAR",
+                    "Id": "0068c00000pWRTIAA4",
+                    "StageName": "Proposal/Price Quote",
+                    "Amount": 270000.00
+                },
+                {
+                    "attributes": {
+                        "type": "Opportunity",
+                        "url": "/services/data/v54.0/sobjects/Opportunity/0068c00000pWRTRAA4"
+                    },
+                    "AccountId": "0018c00002Ewf8EAAR",
+                    "Id": "0068c00000pWRTRAA4",
+                    "StageName": "Negotiation/Review",
+                    "Amount": 270000.00
+                },
+                {
+                    "attributes": {
+                        "type": "Opportunity",
+                        "url": "/services/data/v54.0/sobjects/Opportunity/0068c00000pWRTUAA4"
+                    },
+                    "AccountId": "0018c00002Ewf8EAAR",
+                    "Id": "0068c00000pWRTUAA4",
+                    "StageName": "Closed Won",
+                    "Amount": 270000.00
+                },
+                {
+                    "attributes": {
+                        "type": "Opportunity",
+                        "url": "/services/data/v54.0/sobjects/Opportunity/0068c00000pWRTWAA4"
+                    },
+                    "AccountId": "0018c00002Ewf8EAAR",
+                    "Id": "0068c00000pWRTWAA4",
+                    "StageName": "Closed Won",
+                    "Amount": 915000.00
+                },
+                {
+                    "attributes": {
+                        "type": "Opportunity",
+                        "url": "/services/data/v54.0/sobjects/Opportunity/0068c00000pWRTbAAO"
+                    },
+                    "AccountId": "0018c00002Ewf8EAAR",
+                    "Id": "0068c00000pWRTbAAO",
+                    "StageName": "Closed Won",
+                    "Amount": 235000.00
+                },
+                {
+                    "attributes": {
+                        "type": "Opportunity",
+                        "url": "/services/data/v54.0/sobjects/Opportunity/0068c00000pWRTcAAO"
+                    },
+                    "AccountId": "0018c00002Ewf8EAAR",
+                    "Id": "0068c00000pWRTcAAO",
+                    "StageName": "Closed Won",
+                    "Amount": 440000.00
+                },
+                {
+                    "attributes": {
+                        "type": "Opportunity",
+                        "url": "/services/data/v54.0/sobjects/Opportunity/0068c00000pWRTeAAO"
+                    },
+                    "AccountId": "0018c00002Ewf8EAAR",
+                    "Id": "0068c00000pWRTeAAO",
+                    "StageName": "Closed Won",
+                    "Amount": 120000.00
+                },
+                {
+                    "attributes": {
+                        "type": "Opportunity",
+                        "url": "/services/data/v54.0/sobjects/Opportunity/0068c00000pWRTgAAO"
+                    },
+                    "AccountId": "0018c00002Ewf8EAAR",
+                    "Id": "0068c00000pWRTgAAO",
+                    "StageName": "Needs Analysis",
+                    "Amount": 675000.00
+                }
+            ]
+        }
+    }
+]
